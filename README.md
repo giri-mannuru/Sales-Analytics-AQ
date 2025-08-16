@@ -1,19 +1,19 @@
 # Sales-Analytics-AQ
 This Sales Report analyzes company performance from 2019 to 2021 across customers, countries, products, and divisions using detailed multi-sheet Excel data. It helps executives and analysts identify revenue drivers, growth opportunities, and performance gaps.
 ### OVERVIEW
-**1.** **Customer_Sales_Performance:** Sales by customer, including annual values and year-over-year growth.
+**1.** **Customer_Sales_Performance:** Sales by customer, including annual values and year-over-year growth_(https://github.com/giri-mannuru/Sales-Analytics-AQ/blob/main/Customer_Sales_Performance.pdf)
 
-**2.** **Market_Performance_vs_Target:** Country-level performance versus sales targets and target achievement rates.
+**2.** **Market_Performance_vs_Target:** Country-level performance versus sales targets and target achievement rates_(https://github.com/giri-mannuru/Sales-Analytics-AQ/blob/main/Market_Performance_vs_Target.pdf)
 
-**3.** **Top10_Countries:** Top 10 products by sales for 2020 and 2021, including growth data.
+**3.** **Top10_Countries:** Top 10 products by sales for 2020 and 2021, including growth data_(https://github.com/giri-mannuru/Sales-Analytics-AQ/blob/main/Top10_Countries.pdf)
 
-**4.** **Division:** Division-wise sales totals and growth from 2020 to 2021.
+**4.** **Division:** Division-wise sales totals and growth from 2020 to 2021_(https://github.com/giri-mannuru/Sales-Analytics-AQ/blob/main/Division_wise.pdf)
 
-**5.** **Top & Bottom__5_QTY:** Top and bottom 5 products by quantity sold.
+**5.** **Top & Bottom__5_QTY:** Top and bottom 5 products by quantity sold_(https://github.com/giri-mannuru/Sales-Analytics-AQ/blob/main/Top%26Bottom_5_QTY.pdf)
 
-**6.** **New_Products_2021:** Sales impact of products newly introduced in 2021.
+**6.** **New_Products_2021:** Sales impact of products newly introduced in 2021_(https://github.com/giri-mannuru/Sales-Analytics-AQ/blob/main/New_Products_2021.pdf)
 
-**7.** **Top_5_Countries_2021:** Leading countries by sales for the year 2021.
+**7.** **Top_5_Countries_2021:** Leading countries by sales for the year 2021_(https://github.com/giri-mannuru/Sales-Analytics-AQ/blob/main/Top_5_Countries_2021.pdf)
 
 ### USES
 * **Trend Analysis:** Evaluate division and customer growth over multiple years
